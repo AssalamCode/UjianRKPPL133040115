@@ -19,5 +19,9 @@ public class coba {
 public static void main(String[] args) {
       
         System.out.println("Nama Lengkap : " + nama);
-    }
+        System.out.println("Masih Error");
+
+        System.out.println("Nama Lengkap : " + nama);
+        System.out.println("Masih Error");    
+}
 }
